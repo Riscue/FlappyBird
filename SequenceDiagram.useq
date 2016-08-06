@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="Main" project="FlappyBird" file="/FlappyBird/src/Main.java" binary="false" 
+    label="main" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="132" y="0"/>    
+    <execution id="2">      
+      <position height="1297" width="80" x="5" y="99"/>    
+    </execution>  
+  </object>  
+  <object id="5" language="java" name="Controller.Controller" project="FlappyBird" 
+    file="/FlappyBird/src/Controller/Controller.java" binary="false" label="controller" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="326" y="0"/>    
+    <execution id="4">      
+      <position height="1255" width="79" x="89" y="120"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="21" width="7" x="125" y="695"/>    
+    </execution>    
+    <execution id="21">      
+      <position height="545" width="7" x="125" y="788"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="404" width="7" x="128" y="887"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="63" width="7" x="131" y="1123"/>    
+    </execution>  
+  </object>  
+  <object id="40" language="java" name="javax.swing.Timer" project="FlappyBird" 
+    file="C:/Program Files/Java/jre1.8.0_91/lib/rt.jar" binary="true" label="timer" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="387" y="0"/>    
+    <execution id="19">      
+      <position height="587" width="56" x="172" y="767"/>    
+    </execution>  
+  </object>  
+  <object id="42" language="java" name="Controller.Ground" project="FlappyBird" 
+    file="/FlappyBird/src/Controller/Ground.java" binary="false" label="ground" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="382" y="0"/>    
+    <execution id="9">      
+      <position height="105" width="64" x="172" y="169"/>    
+    </execution>    
+    <execution id="45">      
+      <position height="21" width="7" x="201" y="211"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="21" width="64" x="232" y="908"/>    
+    </execution>  
+  </object>  
+  <object id="46" language="java" name="Controller.Bird" project="FlappyBird" 
+    file="/FlappyBird/src/Controller/Bird.java" binary="false" label="bird" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="220" y="0"/>    
+    <execution id="11">      
+      <position height="105" width="47" x="240" y="292"/>    
+    </execution>    
+    <execution id="49">      
+      <position height="21" width="7" x="260" y="334"/>    
+    </execution>    
+    <execution id="30">      
+      <position height="21" width="47" x="300" y="919"/>    
+    </execution>  
+  </object>  
+  <object id="50" language="java" name="Controller.Pipe" project="FlappyBird" 
+    file="/FlappyBird/src/Controller/Pipe.java" binary="false" label="pipe" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="444" y="0"/>    
+    <execution id="13">      
+      <position height="188" width="48" x="291" y="406"/>    
+    </execution>    
+    <execution id="55">      
+      <position height="21" width="7" x="312" y="448"/>    
+    </execution>    
+    <execution id="56">      
+      <position height="21" width="7" x="312" y="531"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="105" width="48" x="351" y="929"/>    
+    </execution>    
+    <execution id="59">      
+      <position height="21" width="7" x="372" y="971"/>    
+    </execution>  
+  </object>  
+  <object id="60" language="java" name="Model.PipeData" project="FlappyBird" file="/FlappyBird/src/Model/PipeData.java" 
+    binary="false" label="pipeData" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="670" y="0"/>    
+    <execution id="52">      
+      <position height="63" width="74" x="343" y="427"/>    
+    </execution>    
+    <execution id="58">      
+      <position height="63" width="74" x="403" y="950"/>    
+    </execution>  
+  </object>  
+  <object id="63" language="java" name="Model.Button" project="FlappyBird" file="/FlappyBird/src/Model/Button.java" 
+    binary="false" label="button" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="485" y="0"/>    
+    <execution id="15">      
+      <position height="125" width="60" x="421" y="612"/>    
+    </execution>    
+    <execution id="67">      
+      <position height="21" width="7" x="448" y="654"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="21" width="60" x="481" y="1144"/>    
+    </execution>  
+  </object>  
+  <object id="68" language="java" name="Model.Texture" project="FlappyBird" file="/FlappyBird/src/Model/Texture.java" 
+    binary="false" label="texture" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="686" y="0"/>    
+    <execution id="44">      
+      <position height="63" width="66" x="485" y="190"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="63" width="66" x="485" y="313"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="76" width="66" x="485" y="497"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="63" width="66" x="485" y="633"/>    
+    </execution>  
+  </object>  
+  <object id="73" language="java" name="View.View" project="FlappyBird" file="/FlappyBird/src/View/View.java" 
+    binary="false" label="view" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="759" y="0"/>    
+    <execution id="17">      
+      <position height="21" width="51" x="555" y="745"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="51" x="615" y="809"/>    
+    </execution>    
+    <execution id="36">      
+      <position height="21" width="51" x="615" y="1249"/>    
+    </execution>  
+  </object>  
+  <object id="74" language="java" name="Model.Model" project="FlappyBird" file="/FlappyBird/src/Model/Model.java" 
+    binary="false" label="model" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="458" y="0"/>    
+    <execution id="7">      
+      <position height="115" width="57" x="610" y="141"/>    
+    </execution>    
+    <execution id="77">      
+      <position height="21" width="7" x="635" y="193"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="503" width="57" x="670" y="809"/>    
+    </execution>    
+    <execution id="81">      
+      <position height="21" width="7" x="695" y="851"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="189" width="7" x="695" y="1060"/>    
+    </execution>    
+    <execution id="84">      
+      <position height="105" width="7" x="698" y="1102"/>    
+    </execution>  
+  </object>  
+  <object id="86" language="java" name="Model.Model.GameStatus" project="FlappyBird" 
+    file="/FlappyBird/src/Model/Model.java" binary="false" label="gameStatus" type="enumeratıon" autoSize="true">    
+    <position height="-1" width="-1" x="458" y="0"/>    
+    <execution id="76">      
+      <position height="73" width="93" x="671" y="162"/>    
+    </execution>    
+    <execution id="79">      
+      <position height="63" width="93" x="731" y="830"/>    
+    </execution>    
+    <execution id="83">      
+      <position height="147" width="93" x="731" y="1081"/>    
+    </execution>  
+  </object>  
+  <message id="3" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="8" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="10" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" asynchronous="false">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="22" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" asynchronous="false">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="27" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="29" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="30"/>  
+  </message>  
+  <message id="31" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="33" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="35" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="36"/>  
+  </message>  
+  <message id="38" asynchronous="false">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="41" asynchronous="false">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="43" asynchronous="false">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="47" asynchronous="false">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="51" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="52"/>  
+  </message>  
+  <message id="53" asynchronous="false">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="57" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="61" asynchronous="false">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="62" asynchronous="false">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="59"/>  
+  </message>  
+  <message id="64" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="66" asynchronous="false">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="69" asynchronous="false">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="70" asynchronous="false">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="49"/>  
+  </message>  
+  <message id="71" asynchronous="false">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="56"/>  
+  </message>  
+  <message id="72" asynchronous="false">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="67"/>  
+  </message>  
+  <message id="75" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="78" asynchronous="false">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="80" asynchronous="false">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="82" asynchronous="false">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="83"/>  
+  </message>  
+  <message id="85" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="87" asynchronous="false">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="77"/>  
+  </message>  
+  <message id="88" asynchronous="false">    
+    <end type="SOURCE" refId="79"/>    
+    <end type="TARGET" refId="81"/>  
+  </message>  
+  <message id="89" asynchronous="false">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="84"/>  
+  </message>
+</sequence-diagram>
